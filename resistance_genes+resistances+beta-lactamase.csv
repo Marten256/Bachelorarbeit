@@ -1,0 +1,69 @@
+Resistance gene	Resistance	Beta-Lactamase?
+AAC(3)-IId	gentamicin A	
+AAC(3)-IIe	gentamicin A	
+AAC(3)-Ib	kanamycin A;tobramycin;gentamicin A	
+AAC(6')-Ib-cr6	amikacin;ciprofloxacin;kanamycin A;tobramycin	
+ADC-8		beta-lactamase
+ANT(3'')-IIa	spectinomycin;streptomycin	
+ANT(3'')-Ib	spectinomycin;streptomycin	
+APH(3'')-Ib	streptomycin	
+APH(3')-Ia	ribostamycin;kanamycin A;paromomycin;lividomycin A;lividomycin B	
+APH(6)-Id	streptomycin	
+CMY-132		beta-lactamase
+CTX-M-14		beta-lactamase
+CTX-M-15	cefazolin;ceftazidime;ceftriaxone;ampicillin;cefalotin	beta-lactamase
+CTX-M-27	cefazolin;ceftazidime;ertapenem;ampicillin;cefixime;cefalotin;amoxicillin-clavulanic acid;piperacillin-tazobactam	beta-lactamase
+EC-14		beta-lactamase
+EC-19		beta-lactamase
+EC-5		beta-lactamase
+EC-8		beta-lactamase
+ErmB	erythromycin;roxithromycin;telithromycin;clarithromycin;tylosin;spiramycin;azithromycin;dirithromycin;dalfopristin;griseoviridin;madumycin II;virginiamycin M1;ostreogrycin B3;patricin A;patricin B;pristinamycin IA;pristinamycin IB;quinupristin;pristinamycin IC;vernamycin C;virginiamycin S2;lincomycin;clindamycin;oleandomycin	
+Escherichia coli EF-Tu mutants conferring resistance to Pulvomycin	pulvomycin	
+Escherichia coli GlpT with mutation conferring resistance to fosfomycin	fosfomycin	
+Escherichia coli PtsI with mutation conferring resistance to fosfomycin	fosfomycin	
+Escherichia coli UhpT with mutation conferring resistance to fosfomycin	fosfomycin	
+Escherichia coli ampC beta-lactamase	penicillin	beta-lactamase
+Escherichia coli cyaA with mutation conferring resistance to fosfomycin	fosfomycin	
+Escherichia coli gyrA conferring resistance to fluoroquinolones	ciprofloxacin;enoxacin;gatifloxacin;grepafloxacin;levofloxacin;lomefloxacin;moxifloxacin;nalidixic acid;norfloxacin;ofloxacin;pefloxacin;sparfloxacin;trovafloxacin	
+Escherichia coli parC conferring resistance to fluoroquinolones	ciprofloxacin;enoxacin;gatifloxacin;grepafloxacin;levofloxacin;lomefloxacin;moxifloxacin;nalidixic acid;norfloxacin;ofloxacin;pefloxacin;sparfloxacin;trovafloxacin	
+Haemophilus influenzae PBP3 conferring resistance to beta-lactam antibiotics	ceftriaxone;ampicillin;cefaclor;cefotaxime;cefditoren;cefdinir	
+IMP-66	ertapenem;meropenem;imipenem;doripenem;panipenem;tebipenem;biapenem;sulopenem;methicillin;cloxacillin;carbenicillin;penicillin;amoxicillin;piperacillin;oxacillin;benzylpenicillin;phenoxymethylpenicillin;propicillin;dicloxacillin;flucloxacillin;ampicillin;azlocillin;mezlocillin;isopenicillin N;penicillin N;mecillinam;temocillin;nafcillin;cefazolin;cefepime;ceftazidime;ceftobiprole;ceftriaxone;cefuroxime;cefalexin;cefadroxil;cefotiam;cefaclor;cefotaxime;cefixime;cefpodoxime;ceftibuten;cefditoren;cefdinir;ceftaroline;cefalotin;ceftolozane;cefamandole;cefetamet;cefonicid;cefoperazone;cefprozil;ceftizoxime;cephapirin;cefradine;loracarbef;moxalactam;ceftiofur;cephaloridine;cefiderocol;cefpirome;cefsulodin;cefoxitin;cefmetazole;cefotetan;flomoxef;faropenem;ticarcillin	beta-lactamase
+OXA-1	amoxicillin;piperacillin;ampicillin;cefalotin;amoxicillin-clavulanic acid;piperacillin-tazobactam	beta-lactamase
+OXA-244		beta-lactamase
+PEDO-1		beta-lactamase
+QnrS1	ciprofloxacin	
+QnrS4	ciprofloxacin	
+RSA2-1		beta-lactamase
+SAT-2	streptothricin	
+SHV-12	ceftazidime;ceftriaxone;cefalotin	beta-lactamase
+TEM-1	cefazolin;amoxicillin;ampicillin;cefalotin;amoxicillin-clavulanic acid;piperacillin-tazobactam	beta-lactamase
+TEM-135	penicillin	beta-lactamase
+TEM-238		beta-lactamase
+TEM-68		beta-lactamase
+VHW-1		beta-lactamase
+aadA17	spectinomycin;streptomycin	
+aadA2	spectinomycin;streptomycin	
+aadA23	spectinomycin;streptomycin	
+aadA4	spectinomycin;streptomycin	
+aadA5	spectinomycin;streptomycin	
+bacA	bacitracin A;bacitracin B;bacitracin F	
+catB3	azidamfenicol;chloramphenicol;thiamphenicol	
+catI	azidamfenicol;chloramphenicol;thiamphenicol	
+dfrA1	trimethoprim	
+dfrA12	trimethoprim	
+dfrA14	trimethoprim	
+dfrA15	trimethoprim	
+dfrA17	trimethoprim	
+dfrA21	trimethoprim	
+dfrA7	trimethoprim	
+eptA	polymyxin B	
+erm(32)		
+linG	lincomycin	
+lmrC	lincomycin;clindamycin;celesticetin	
+mphA	erythromycin;roxithromycin;telithromycin;clarithromycin;azithromycin;dirithromycin;oleandomycin	
+sul1	sulfadiazine;sulfadimidine;sulfadoxine;sulfamethoxazole;sulfisoxazole;sulfacetamide;mafenide;sulfasalazine;sulfamethizole	
+sul2	sulfadiazine;sulfadimidine;sulfadoxine;sulfamethoxazole;sulfisoxazole;sulfacetamide;mafenide;sulfasalazine;sulfamethizole	
+sul3	sulfadiazine;sulfadimidine;sulfadoxine;sulfamethoxazole;sulfisoxazole;sulfacetamide;mafenide;sulfasalazine;sulfamethizole	
+tet(49)	tetracycline;oxytetracycline	
+ugd	polymyxin B	
+vanG	vancomycin	

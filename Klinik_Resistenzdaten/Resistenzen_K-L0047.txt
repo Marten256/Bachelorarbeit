@@ -1,0 +1,19 @@
+RESISTANCE
+amoxicillin-clavulanic acid
+ampicillin
+amphotericin b
+caspofungin
+clindamycin
+cefalexin
+cefepime
+lincomycin
+penicillin
+
+MEDIATE
+cefazolin
+
+SENSITIVE
+ertapenem
+fluconazole
+nitrofurantoin
+imipenem

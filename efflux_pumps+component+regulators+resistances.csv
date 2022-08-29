@@ -1,0 +1,39 @@
+Efflux pump	Components	Regulators	Resistances
+AcrEF-TolC	AcrE;AcrF;TolC	AcrS;H-NS	enoxacin;ciprofloxacin;levofloxacin;moxifloxacin;gatifloxacin;lomefloxacin;nalidixic acid;norfloxacin;ofloxacin;trovafloxacin;grepafloxacin;sparfloxacin;pefloxacin;Tosufloxacin;sitafloxacin;cinoxacin;clinafloxacin;Clofazimine;fleroxacin;balofloxacin;delafloxacin;Zabofloxacin;Finafloxacin;Nemonoxacin;levonadifloxacin;Lascufloxacin;Prulifloxacin;enrofloxacin;marbofloxacin;gemifloxacin;cefazolin;cefepime;ceftazidime;ceftobiprole;ceftriaxone;cefuroxime;cefalexin;cefadroxil;cefotiam;cefaclor;cefotaxime;cefixime;cefpodoxime;ceftibuten;cefditoren;cefdinir;ceftaroline;cefalotin;ceftolozane;cefamandole;cefetamet;cefonicid;cefoperazone;cefprozil;ceftizoxime;cephapirin;cefradine;loracarbef;moxalactam;ceftiofur;cephaloridine;cefiderocol;cefpirome;cefsulodin;cefoxitin;cefmetazole;cefotetan;flomoxef;methicillin;cloxacillin;carbenicillin;penicillin;amoxicillin;piperacillin;oxacillin;benzylpenicillin;phenoxymethylpenicillin;propicillin;dicloxacillin;flucloxacillin;ampicillin;azlocillin;mezlocillin;isopenicillin N;penicillin N;mecillinam;temocillin;nafcillin
+AcrEF-TolC confers resistance to ciprofloxacin	AcrE;AcrF;TolC;AcrS	H-NS	ciprofloxacin
+AcrAB-TolC	acrA;acrB;TolC	marA;acrR;AcrS;marR;ramA;ramR;rob;sdiA;soxRS	
++ YajC participates_in			tigecycline;chloramphenicol;rifampin;tetracycline;triclosan;ampicillin;cefalotin;enoxacin;ciprofloxacin;levofloxacin;moxifloxacin;gatifloxacin;lomefloxacin;nalidixic acid;norfloxacin;ofloxacin;trovafloxacin;grepafloxacin;sparfloxacin;pefloxacin;Tosufloxacin;sitafloxacin;cinoxacin;clinafloxacin;Clofazimine;fleroxacin;balofloxacin;delafloxacin;Zabofloxacin;Finafloxacin;Nemonoxacin;levonadifloxacin;Lascufloxacin;Prulifloxacin;enrofloxacin;marbofloxacin;gemifloxacin
+Escherichia coli emrE			erythromycin
+Escherichia coli mdfA			tetracycline;benzalkonium chloride
+soxRS	soxR;soxS		
+Klebsiella pneumoniae KpnEF	Klebsiella pneumoniae KpnE;Klebsiella pneumoniae KpnF		streptomycin;colistin A;colistin B;cefepime;ceftriaxone;erythromycin;rifampin;tetracycline;benzalkonium chloride;chlorhexidine;triclosan
+Klebsiella pneumoniae KpnGH-TolC	Klebsiella pneumoniae KpnG;Klebsiella pneumoniae KpnH;TolC		polymyxin B3;polymyxin B4;azithromycin;ceftazidime;ciprofloxacin;ertapenem;erythromycin;gentamicin C;polymyxin B1;imipenem;ticarcillin;norfloxacin;piperacillin;polymyxin B2;spectinomycin;tobramycin;streptomycin;astromicin;neomycin;dibekacin;amikacin;gentamicin C;ribostamycin;butirosin;sisomicin;apramycin;netilmicin;spectinomycin;streptomycin;kanamycin A;tobramycin;hygromycin B;isepamicin;G418;arbekacin;gentamicin B;paromomycin;lividomycin A;verdamicin;vertilimicin;kasugamycin;lividomycin B;plazomicin;capreomycin;gentamicin A
+PmrF			polymyxin B
+QepA4			enoxacin;ciprofloxacin;levofloxacin;moxifloxacin;gatifloxacin;lomefloxacin;nalidixic acid;norfloxacin;ofloxacin;trovafloxacin;grepafloxacin;sparfloxacin;pefloxacin;Tosufloxacin;sitafloxacin;cinoxacin;clinafloxacin;Clofazimine;fleroxacin;balofloxacin;delafloxacin;Zabofloxacin;Finafloxacin;Nemonoxacin;levonadifloxacin;Lascufloxacin;Prulifloxacin;enrofloxacin;marbofloxacin;gemifloxacin
+MacAB-TolC	macA;macB;TolC	phoPQ	erythromycin
+EmrAB-TolC	emrA;emrB;TolC	emrR	nalidixic acid;thiolactomycin
+EmrKY-TolC	emrK;emrY;TolC	evgSA;H-NS	tetracycline
+MdtABC-TolC	mdtC;mdtA;mdtB;TolC	baeSR;cpxAR	novobiocin
+MdtEF-TolC	mdtE;mdtF;TolC	CRP;evgSA;gadX;H-NS;gadW	erythromycin;cloxacillin;oxacillin;norfloxacin
+YojI			microcin J25;
++ dependency TolC			
+abcA		mgrA	methicillin;daptomycin;cefotaxime;moenomycin A1
+acrD		baeSR;cpxAR	astromicin;neomycin;dibekacin;amikacin;gentamicin C;ribostamycin;butirosin;sisomicin;apramycin;netilmicin;spectinomycin;streptomycin;kanamycin A;tobramycin;hygromycin B;isepamicin;G418;arbekacin;gentamicin B;paromomycin;lividomycin A;verdamicin;vertilimicin;kasugamycin;lividomycin B;plazomicin;capreomycin;gentamicin A
+baeSR	baeR;baeS		
+cmlA6			chloramphenicol
+cpxAR	cpxA;CpxR		
+evgSA	evgA;evgS		
+floR			chloramphenicol;florfenicol
+kdpDE	kdpE;kdpD		kanamycin A;astromicin;neomycin;dibekacin;amikacin;gentamicin C;ribostamycin;butirosin;sisomicin;apramycin;netilmicin;spectinomycin;streptomycin;tobramycin;hygromycin B;isepamicin;G418;arbekacin;gentamicin B;paromomycin;lividomycin A;verdamicin;vertilimicin;kasugamycin;lividomycin B;plazomicin;capreomycin;gentamicin A
+mdtG			fosfomycin (when overexpressed)
+mdtH			enoxacin;norfloxacin
+mdtM			acriflavine;lincomycin;puromycin;chloramphenicol;norfloxacin
+MdtNOP	mdtN;mdtO;mdtP	leuO	acriflavine;puromycin
+mef(B)			erythromycin;roxithromycin;clarithromycin;telithromycin;tylosin;spiramycin;azithromycin;dirithromycin;oleandomycin;josamycin;chalcomycin;midecamycin;mycinamicin;megalomycin;narbomycin;kitasamycin;carbomycin;rosaramicin;niddamycin;methymycin;pikromycin;rokitamycin;Solithromycin
+msbA			metronidazole
+qacEdelta1			benzalkonium chloride;triclosan;thiacalixarene derivatives;chlorhexidine;acriflavine
+qacJ			benzalkonium chloride
+qacL			benzalkonium chloride;triclosan;thiacalixarene derivatives;chlorhexidine;acriflavine
+MexEF-OprN	MexE;OprN;MexF	MexS;MexT;MvaT;rsmA	enoxacin;ciprofloxacin;levofloxacin;moxifloxacin;gatifloxacin;lomefloxacin;nalidixic acid;norfloxacin;ofloxacin;trovafloxacin;grepafloxacin;sparfloxacin;pefloxacin;Tosufloxacin;sitafloxacin;cinoxacin;clinafloxacin;Clofazimine;fleroxacin;balofloxacin;delafloxacin;Zabofloxacin;Finafloxacin;Nemonoxacin;levonadifloxacin;Lascufloxacin;Prulifloxacin;enrofloxacin;marbofloxacin;gemifloxacin;trimethoprim;chloramphenicol
+tet(A)		tetR	tetracycline
+tet(B)			tetracycline;doxycycline;minocycline

@@ -1,0 +1,393 @@
+Antibiotic	class	sub-class
+lincomycin	lincosamide	
+clindamycin	lincosamide	
+celesticetin	lincosamide	
+pirlimycin	lincosamide	
+astromicin	aminoglycoside	
+neomycin	aminoglycoside	
+dibekacin	aminoglycoside	
+amikacin	aminoglycoside	
+gentamicin C	aminoglycoside	
+ribostamycin	aminoglycoside	
+butirosin	aminoglycoside	
+sisomicin	aminoglycoside	
+apramycin	aminoglycoside	
+netilmicin	aminoglycoside	
+spectinomycin	aminoglycoside	
+streptomycin	aminoglycoside	
+kanamycin A	aminoglycoside	
+tobramycin	aminoglycoside	
+hygromycin B	aminoglycoside	
+isepamicin	aminoglycoside	
+G418	aminoglycoside	
+arbekacin	aminoglycoside	
+gentamicin B	aminoglycoside	
+paromomycin	aminoglycoside	
+lividomycin	aminoglycoside	
+lividomycin A	aminoglycoside	
+verdamicin	aminoglycoside	
+vertilimicin	aminoglycoside	
+kasugamycin	aminoglycoside	
+lividomycin B	aminoglycoside	
+plazomicin	aminoglycoside	
+capreomycin	aminoglycoside	
+gentamicin A	aminoglycoside	
+virginiamycin M1	streptogramin	streptogramin A antibiotic
+madumycin II	streptogramin	streptogramin A antibiotic
+griseoviridin	streptogramin	streptogramin A antibiotic
+dalfopristin	streptogramin	streptogramin A antibiotic
+pristinamycin IA	streptogramin	streptogramin B antibiotic
+quinupristin	streptogramin	streptogramin B antibiotic
+pristinamycin IB	streptogramin	streptogramin B antibiotic
+virginiamycin S2	streptogramin	streptogramin B antibiotic
+pristinamycin IC	streptogramin	streptogramin B antibiotic
+vernamycin C	streptogramin	streptogramin B antibiotic
+patricin A	streptogramin	streptogramin B antibiotic
+patricin B	streptogramin	streptogramin B antibiotic
+ostreogrycin B3	streptogramin	streptogramin B antibiotic
+enoxacin	fluoroquinolone	
+ciprofloxacin	fluoroquinolone	
+levofloxacin	fluoroquinolone	
+moxifloxacin	fluoroquinolone	
+gatifloxacin	fluoroquinolone	
+lomefloxacin	fluoroquinolone	
+nalidixic acid	fluoroquinolone	
+norfloxacin	fluoroquinolone	
+ofloxacin	fluoroquinolone	
+trovafloxacin	fluoroquinolone	
+grepafloxacin	fluoroquinolone	
+sparfloxacin	fluoroquinolone	
+pefloxacin	fluoroquinolone	
+Tosufloxacin	fluoroquinolone	
+sitafloxacin	fluoroquinolone	
+cinoxacin	fluoroquinolone	
+clinafloxacin	fluoroquinolone	
+Clofazimine	fluoroquinolone	
+fleroxacin	fluoroquinolone	
+balofloxacin	fluoroquinolone	
+delafloxacin	fluoroquinolone	
+Zabofloxacin	fluoroquinolone	
+Finafloxacin	fluoroquinolone	
+Nemonoxacin	fluoroquinolone	
+levonadifloxacin	fluoroquinolone	
+Lascufloxacin	fluoroquinolone	
+Prulifloxacin	fluoroquinolone	
+enrofloxacin	fluoroquinolone	
+marbofloxacin	fluoroquinolone	
+gemifloxacin	fluoroquinolone	
+erythromycin	macrolide	
+roxithromycin	macrolide	
+clarithromycin	macrolide	
+telithromycin	macrolide	
+tylosin	macrolide	
+spiramycin	macrolide	
+azithromycin	macrolide	
+dirithromycin	macrolide	
+oleandomycin	macrolide	
+josamycin	macrolide	
+chalcomycin	macrolide	
+midecamycin	macrolide	
+mycinamicin	macrolide	
+megalomycin	macrolide	
+narbomycin	macrolide	
+kitasamycin	macrolide	
+carbomycin	macrolide	
+rosaramicin	macrolide	
+niddamycin	macrolide	
+methymycin	macrolide	
+pikromycin	macrolide	
+rokitamycin	macrolide	
+Solithromycin	macrolide	
+aztreonam	monobactam	
+BAL30072	monobactam	
+carumonam	monobactam	
+LYS228	monobactam	
+ertapenem	carbapenem	
+meropenem	carbapenem	
+imipenem	carbapenem	
+doripenem	carbapenem	
+panipenem	carbapenem	
+tebipenem	carbapenem	
+biapenem	carbapenem	
+sulopenem	carbapenem	
+methicillin	penam	
+cloxacillin	penam	
+carbenicillin	penam	
+penicillin	penam	
+amoxicillin	penam	
+piperacillin	penam	
+oxacillin	penam	
+benzylpenicillin	penam	
+phenoxymethylpenicillin	penam	
+propicillin	penam	
+dicloxacillin	penam	
+flucloxacillin	penam	
+ampicillin	penam	
+azlocillin	penam	
+mezlocillin	penam	
+isopenicillin N	penam	
+penicillin N	penam	
+mecillinam	penam	
+temocillin	penam	
+nafcillin	penam	
+cefazolin	cephem	cephalosporin
+cefepime	cephem	cephalosporin
+ceftazidime	cephem	cephalosporin
+ceftobiprole	cephem	cephalosporin
+ceftriaxone	cephem	cephalosporin
+cefuroxime	cephem	cephalosporin
+cefalexin	cephem	cephalosporin
+cefadroxil	cephem	cephalosporin
+cefotiam	cephem	cephalosporin
+cefaclor	cephem	cephalosporin
+cefotaxime	cephem	cephalosporin
+cefixime	cephem	cephalosporin
+cefpodoxime	cephem	cephalosporin
+ceftibuten	cephem	cephalosporin
+cefditoren	cephem	cephalosporin
+cefdinir	cephem	cephalosporin
+ceftaroline	cephem	cephalosporin
+cefalotin	cephem	cephalosporin
+ceftolozane	cephem	cephalosporin
+cefamandole	cephem	cephalosporin
+cefetamet	cephem	cephalosporin
+cefonicid	cephem	cephalosporin
+cefoperazone	cephem	cephalosporin
+cefprozil	cephem	cephalosporin
+ceftizoxime	cephem	cephalosporin
+cephapirin	cephem	cephalosporin
+cefradine	cephem	cephalosporin
+loracarbef	cephem	cephalosporin
+moxalactam	cephem	cephalosporin
+ceftiofur	cephem	cephalosporin
+cephaloridine	cephem	cephalosporin
+cefiderocol	cephem	cephalosporin
+cefpirome	cephem	cephalosporin
+cefsulodin	cephem	cephalosporin
+cefoxitin	cephem	cephamycin
+cefmetazole	cephem	cephamycin
+cefotetan	cephem	cephamycin
+flomoxef	cephem	cephamycin
+faropenem	penem	
+ticarcillin	penem	
+doxycycline	tetracycline	
+minocycline	tetracycline	
+chlortetracycline	tetracycline	
+demeclocycline	tetracycline	
+oxytetracycline	tetracycline	
+Omadacycline	tetracycline	
+Eravacycline	tetracycline	
+tetracycline	tetracycline	
+Sarecycline	tetracycline	
+tigecycline	glycylcycline	
+tunicamycin	nucleoside	
+streptothricin	nucleoside	
+puromycin	nucleoside	aminonucleoside antibiotic
+cordycepin	nucleoside	
+teicoplanin	glycopeptide	
+vancomycin	glycopeptide	
+bleomycin	glycopeptide	
+antibiotic A47934	glycopeptide	
+balhimycin	glycopeptide	
+chloroeremomycin	glycopeptide	
+oritavancin	glycopeptide	
+antibiotic A40926	glycopeptide	
+telavancin	glycopeptide	
+dalbavancin	glycopeptide	
+ristocetin	glycopeptide	
+avoparcin	glycopeptide	
+bleomycinic acid	glycopeptide	
+bleomycin A2	glycopeptide	
+bleomycin B2	glycopeptide	
+CBP C1-aminomethylene vancomycin	glycopeptide	
+eremomycin pyrrolidide	glycopeptide	
+complestatin	glycopeptide	
+corbomycin	glycopeptide	
+linezolid	oxazolidinone	
+tedizolid	oxazolidinone	
+bacitracin	peptide	
+edeine	peptide	
+gramicidin	peptide	
+tuberactinomycin	peptide	
+thiostrepton	peptide	
+defensin	peptide	
+magainin	peptide	
+actinomycin	peptide	
+teixobactin	peptide	
+lipopeptide antibiotic	peptide	
+lugdunin	peptide	
+thusin	peptide	
+formicin	peptide	
+lysocin	peptide	
+microcin J25	peptide	
+edeine F	peptide	
+BPI	peptide	
+viomycin	peptide	
+epinecidin-1	peptide	
+klebsidin	peptide	
+edeine A	peptide	
+edeine B	peptide	
+edeine D	peptide	
+edeine F	peptide	
+magainin A	peptide	
+Magainin B	peptide	
+Magainin G	peptide	
+Magainin H	peptide	
+magainin 1	peptide	
+magainin 2	peptide	
+Dactinomycin	peptide	
+daptomycin	peptide	
+polymyxin antibiotic	peptide	
+Ramoplanin	peptide	
+arylomycin	peptide	
+moenomycin	peptide	
+battacin	peptide	
+moenomycin A1	peptide	
+malacidin A	peptide	
+Lysocin E	peptide	
+novobiocin	aminocoumarin	
+clorobiocin	aminocoumarin	
+coumermycin A1	aminocoumarin	
+Vanillobiocin	aminocoumarin	
+Isovanillobiocin	aminocoumarin	
+Declovanillobiocin	aminocoumarin	
+rifampin	rifamycin	
+rifaximin	rifamycin	
+rifabutin	rifamycin	
+rifapentine	rifamycin	
+Rifalazil	rifamycin	
+lassomycin	rifamycin	
+TNP-2198	rifamycin	
+trimethoprim	diaminopyrimidine	
+brodimoprim	diaminopyrimidine	
+tetroxoprim	diaminopyrimidine	
+iclaprim	diaminopyrimidine	
+sulfadiazine	sulfonamide	
+sulfadimidine	sulfonamide	
+sulfadoxine	sulfonamide	
+sulfamethoxazole	sulfonamide	
+sulfisoxazole	sulfonamide	
+sulfacetamide	sulfonamide	
+mafenide	sulfonamide	
+sulfasalazine	sulfonamide	
+sulfamethizole	sulfonamide	
+chloramphenicol	phenicol	
+azidamfenicol	phenicol	
+thiamphenicol	phenicol	
+florfenicol	phenicol	
+arsphenamine	organoarsenic	
+ethambutol	polyamine	
+tyrothricin	antibiotic mixture	
+gramicidin D	antibiotic mixture	
+bacitracin	antibiotic mixture	
+gentamicin C	antibiotic mixture	
+tunicamycin	antibiotic mixture	
+polymyxin B	antibiotic mixture	
+bleomycin	antibiotic mixture	
+amoxicillin-clavulanic acid	antibiotic mixture	
+ampicillin-sulbactam	antibiotic mixture	
+piperacillin-sulbactam	antibiotic mixture	
+piperacillin-tazobactam	antibiotic mixture	
+quinupristin-dalfopristin	antibiotic mixture	
+ticarcillin-clavulanic acid	antibiotic mixture	
+trimethoprim-sulfamethoxazole	antibiotic mixture	
+ceftazidime-cloxacillin	antibiotic mixture	
+cefepime-cloxacillin	antibiotic mixture	
+imipenem-cloxacillin	antibiotic mixture	
+ceftazidime-clavulanic acid	antibiotic mixture	
+cefoxitin-clavulanate	antibiotic mixture	
+cefoxitin-sulbactam	antibiotic mixture	
+cefoxitin-tazobactam	antibiotic mixture	
+cefotaxime-clavulanic acid	antibiotic mixture	
+cefotaxime-tazobactam	antibiotic mixture	
+ceftazidime-tazobactam	antibiotic mixture	
+aztreonam-clavulanate	antibiotic mixture	
+aztreonam-tazobactam	antibiotic mixture	
+ceftolozane-tazobactam	antibiotic mixture	
+cefotaxime-ceftiofur-tazobactam-clavulanate	antibiotic mixture	
+ceftazidime-avibactam	antibiotic mixture	
+imipenem-cilastatin-relebactam	antibiotic mixture	
+meropenem-vaborbactam	antibiotic mixture	
+cefepime-taniborbactam	antibiotic mixture	
+pulvomycin	elfamycin	
+enacyloxin IIa	elfamycin	
+GE37468	elfamycin	cyclic thiazolyl peptide elfamycin
+amythiamicin A	elfamycin	cyclic thiazolyl peptide elfamycin
+GE2270A	elfamycin	cyclic thiazolyl peptide elfamycin
+LFF571	elfamycin	cyclic thiazolyl peptide elfamycin
+L-681	elfamycin	kirromycin-like antibiotics
+aurodox	elfamycin	kirromycin-like antibiotics
+azimycin	elfamycin	kirromycin-like antibiotics
+dihydromocimycin	elfamycin	kirromycin-like antibiotics
+efrotomycin	elfamycin	kirromycin-like antibiotics
+factumycin	elfamycin	kirromycin-like antibiotics
+heneicomycin	elfamycin	kirromycin-like antibiotics
+kirrothricin	elfamycin	kirromycin-like antibiotics
+phenelfamycin A	elfamycin	kirromycin-like antibiotics
+phenelfamycin B	elfamycin	kirromycin-like antibiotics
+phenelfamycin C	elfamycin	kirromycin-like antibiotics
+phenelfamycin D	elfamycin	kirromycin-like antibiotics
+phenelfamycin E	elfamycin	kirromycin-like antibiotics
+phenelfamycin F	elfamycin	kirromycin-like antibiotics
+unphenelfamycin	elfamycin	kirromycin-like antibiotics
+kirromycin	elfamycin	kirromycin-like antibiotics
+SB22484	elfamycin	kirromycin-like antibiotics
+UK-69	elfamycin	kirromycin-like antibiotics
+phenelfamycin G	elfamycin	kirromycin-like antibiotics
+phenelfamycin H	elfamycin	kirromycin-like antibiotics
+ganefromycin	elfamycin	kirromycin-like antibiotics
+tiamulin	pleuromutilin	
+retapamulin	pleuromutilin	
+valnemulin	pleuromutilin	
+azamulin	pleuromutilin	
+pleuromutilin	pleuromutilin	
+lefamulin	pleuromutilin	
+fidaxomicin	macrocyclic	
+dapsone	sulfone	
+palmitic acid	antibacterial free fatty acids	
+oleic acid	antibacterial free fatty acids	
+linoleic acid	antibacterial free fatty acids	
+metronidazole	nitroimidazole	
+tinidazole	nitroimidazole	
+delamanid	nitroimidazole	
+ornidazole	nitroimidazole	
+TNP-2198	nitroimidazole	
+nitrofurantoin	nitrofuran	
+furazolidone	nitrofuran	
+bedaquiline	diarylquinoline	
+benzalkonium chloride	disinfecting agents and antiseptics	
+triclosan	disinfecting agents and antiseptics	
+thiacalixarene derivatives	disinfecting agents and antiseptics	
+chlorhexidine	disinfecting agents and antiseptics	
+acriflavine	disinfecting agents and antiseptics	
+tetracenomycin C	tetracenomycin	
+tetracenomycin X	tetracenomycin	
+tetracenomycin A2	tetracenomycin	
+fosfomycin	phosphonic acid	
+fosmidomycin	phosphonic acid	
+bicyclomycin	bicyclomycin-like	
+mupirocin	mupirocin-like	
+isoniazid	isoniazid-like	
+fusidic acid	fusidane	
+cycloserine	cycloserine-like	
+pyrazinamide	pyrazine	
+prothionamide	thioamide	
+ethionamide	thioamide	
+nybomycin	nybomycin-like	
+pactamycin	pactamycin-like	
+para-aminosalicylic acid	salicylic acid	
+diflunisal	salicylic acid	
+Zoliflodacin	zoliflodacin-like	
+thioacetazone	thiosemicarbazone	
+perchlozone	thiosemicarbazone	
+murepavadin	protegrin-1-like	
+albendazole	albendazole-like	
+gepotidacin	triazaacenaphthylene	
+evernimicin	orthosomycin	
+avalimycin	orthosomycin	
+nitazoxanide	thiazolide	
+gentamicin	aminoglycoside	
+caspofungin	fungi	
+fluconazole	fungi	
+amphotericin b	fungi	
+esbl-screening	cephem	cephalosporin
